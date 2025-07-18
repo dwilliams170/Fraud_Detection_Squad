@@ -21,7 +21,7 @@ The descriptions for the each columns of the dataset (categorical and numerical 
 | Column                  | Description                                             |
 |-------------------------|---------------------------------------------------------|
 | `Type`                  |    The type of transaction                              |
-| `Amount`                | Gender(s) the user is interested in                     |
+| `Amount`                | The amount of money transferred                      |
 | `NameOrig`              |  The origin account name                                |
 | `OldBalanceOrg`         | The origin accounts balance before the transaction                                                                         |
 | `NewBalanceOrig`        | The origin accounts balance after the transaction                                                                         |
