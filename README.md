@@ -29,7 +29,7 @@ The descriptions for the each columns of the dataset (categorical and numerical 
 | `OldbalanceDest`        |The destination accounts balance before the transaction                                                                         |
 | `NewbalanceDest`        | The destination accounts balance after the transaction                                                                         | 
 | `IsFlaggedFraud`*        | A “naive” model that simply flags a transaction as fraudulent if it is greater than 200,000                                                       |
-| `IsFraud`              | Was this simulated transaction actually fraudulent? (This will be your target variable)                                                               |
+| `IsFraud`              | Was this simulated transaction actually fraudulent? (This will be your target variable)    ( 0 = Not Fraud and 1 = Is Fraud)                                                           |
 
 * Note: This currency is not USD
 
